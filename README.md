@@ -1,2 +1,3 @@
-# press-assets
-Press assets &amp; information
+# Press assets & information
+
+1. [Icons](/icons)
